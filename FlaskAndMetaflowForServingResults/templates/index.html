@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ project }} app</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<script type="text/javascript">
+
+    $(function() {
+        $('#loadResults').click(function() {
+            event.preventDefault();
+            var form_data = $( "#genders" ).val()
+            console.log(form_data);
+            $.ajax({
+                type: 'POST',
+                url: '/',
+                data: JSON.stringify({'gender':form_data}),
+                dataType : 'json',
+				contentType: 'application/json',
+				success : (data) => {
+					result1 = "Prediction Miss rate for Group: " + data.gender + " is " + data.groupMissRate 
+					result2 = ""
+					result3 = ""
+					diff = Math.abs(data.testMissRate - data.groupMissRate) 
+					if(data.gender != "all" ) {
+						result2 = "In comparision, Overall Miss Rate on test set is: " + data.testMissRate
+						if(diff < 0.2) {
+							result3 = "Hence, the models performance for this group seems fair."
+						} 
+						else if (diff > 0.2) {
+							result3 = "Hence, the models performance for this group seems unfair or slightly biased."
+						}
+					}
+					
+					$('#result1').text(result1);
+					$('#result2').text(result2);
+					$('#result3').text(result3);
+				},
+				error : (data) => {
+					alert('error!');
+				}
+            });
+        });
+    }); 
+
+</script>
+<body>
+	<h1>{{ project }}</h1>
+	<h2> Model Performance indicating Fairness</h2>
+	<form id="myform" method="POST">
+		<label for="cars">Choose a Gender group:</label>
+		<select name="Genders" id="genders">
+		  <option value="Male">Male</option>
+		  <option value="Female">Female</option>
+		  <option value="Other">Other</option>
+		  <option value="all">All</option>
+		</select>
+	</form>
+	</br>
+	<button id="loadResults">Load Results</button>
+	</br>
+	</br>
+	<h2 id="result1"></h2>
+	<p id="result2"></p>
+	<p id="result3"></p>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+zipcode,age,race,gender,customer_type,credit_score,loan_amount,loan_approved
+27985,27,African American,Other,old,843,3251,1
+83039,45,African American,Male,old,848,6016,0
+29744,54,White,Male,old,615,6761,1
+54215,32,African American,Other,old,674,7679,0
+18040,37,White,Other,new,766,3600,1
+83309,25,African American,Other,new,673,3239,0
+18102,28,African American,Other,old,665,8471,0
+41906,38,White,Other,new,611,8844,1
+54503,23,African American,Other,new,605,1141,1
+33352,52,White,Other,old,732,4906,1
+48549,41,White,Male,new,846,3059,1
+63283,25,American Indian,Other,new,737,3375,1
+29549,33,American Indian,Female,new,712,9459,1
+84107,36,African American,Other,old,646,877,1
+54267,33,White,Other,new,726,6892,0
+74020,21,American Indian,Other,old,627,1756,0
+22367,41,White,Male,old,736,8769,1
+81518,31,White,Other,new,752,3478,1
+32087,50,African American,Female,new,685,5280,1
+44796,39,White,Other,old,730,4011,0
+72731,41,Asian,Female,old,700,932,0
+17820,52,American Indian,Male,new,831,3350,0
+82730,55,White,Male,old,846,3897,1
+31083,37,White,Female,new,668,3800,0
+43036,24,White,Female,old,702,9390,1
+34348,50,White,Other,old,602,8923,0
+13079,64,White,Other,new,681,3958,0
+39066,52,African American,Female,old,820,6713,0
+62960,46,White,Female,old,699,4670,1
+17580,23,White,Female,old,817,2516,0
+91990,53,African American,Female,new,683,6377,1
+73372,25,White,Other,new,797,9115,0
+95489,40,White,Other,old,798,5250,0
+60120,62,White,Other,old,787,6618,0
+47624,52,White,Other,old,747,2770,1
+44917,48,White,Other,old,833,6707,0
+40538,41,American Indian,Other,old,820,8338,0
+76513,63,White,Male,old,814,5315,1
+47349,33,Hispanic,Other,old,700,5609,0
+52220,28,White,Female,old,726,5098,1
+40614,30,White,Male,old,601,9025,0
+61712,46,White,Male,old,840,7039,1
+42042,50,White,Male,old,740,5774,0
+42890,62,African American,Female,old,704,6735,1
+10257,31,African American,Female,old,647,984,1
+87313,43,African American,Other,old,698,2692,0
+94393,28,African American,Other,old,815,8395,0
+83880,29,African American,Other,old,691,1227,1
+83324,45,African American,Other,new,761,819,1
+16464,60,African American,Other,old,616,5300,1
+61265,60,Hispanic,Other,old,612,2944,1
+61690,52,White,Female,old,792,8218,0
+65806,60,White,Female,old,776,3609,0
+49596,25,White,Female,old,692,7967,0
+37909,42,White,Other,new,609,8548,1
+63143,48,African American,Other,old,736,2969,1
+59256,55,Hispanic,Male,old,675,5507,0
+11711,56,Hispanic,Female,old,772,6699,1
+39963,42,Asian,Female,new,759,5414,0
+75819,26,White,Male,old,764,8904,0
+35799,61,White,Male,old,768,7858,0
+18431,39,White,Other,new,725,1094,1
+61032,23,White,Female,old,768,2436,0
+19824,32,White,Other,old,684,8320,1
+92940,43,White,Female,new,679,625,0
+15775,23,White,Female,old,849,8529,1
+94813,44,African American,Male,old,655,6886,1
+60796,36,White,Other,old,725,6411,1
+56187,26,Asian,Other,new,708,8405,1
+32770,36,White,Male,old,774,9351,0
+56680,51,Hispanic,Male,old,822,8705,1
+68236,54,White,Other,new,828,6641,0
+83699,27,African American,Female,old,811,8772,0
+17373,63,White,Other,old,620,9813,1
+92600,33,Asian,Other,new,619,3384,0
+67445,35,White,Female,old,708,1756,0
+24964,45,White,Male,old,748,9758,1
+88000,44,White,Other,old,840,2053,0
+39755,36,American Indian,Other,old,605,3771,0
+34575,37,African American,Other,old,639,2456,0
+24656,24,White,Male,new,810,605,0
+74796,57,White,Other,old,639,2900,0
+15030,31,White,Female,old,690,5192,0
+62511,54,Asian,Female,old,762,2648,1
+13451,29,American Indian,Female,old,828,2883,1
+77380,52,White,Other,old,759,8297,1
+32391,44,White,Male,old,697,7334,1
+95558,45,African American,Male,old,772,8396,0
+43378,30,White,Female,old,743,6695,1
+73562,21,White,Male,old,633,3509,1
+12124,60,White,Male,old,626,6120,1
+34530,63,African American,Male,old,763,2154,0
+19722,28,White,Female,old,809,9277,0
+85021,37,White,Male,new,739,1335,0
+80534,58,African American,Female,old,753,3030,0
+86788,39,African American,Male,old,796,5206,0
+82828,62,White,Other,old,817,9825,1
+45200,28,White,Other,old,821,3374,0
+61016,37,White,Female,new,809,9003,1
+86128,46,White,Female,old,725,7866,1
+61927,38,White,Other,old,710,6739,0
+71492,50,White,Female,new,841,1004,1
+22298,50,White,Male,old,671,2904,1
+20993,56,Asian,Other,new,620,7713,0
+38371,43,Asian,Female,old,690,3562,1
+65058,42,White,Male,old,660,4948,1
+15474,35,White,Other,new,702,3223,0
+66267,47,African American,Male,old,812,9720,0
+44424,64,African American,Female,new,625,3721,1
+73616,24,Hispanic,Male,old,600,2016,0
+11726,25,White,Male,new,782,1690,1
+91769,48,African American,Female,old,724,1971,1
+19553,27,Hispanic,Female,old,735,3862,1
+59716,36,White,Female,old,791,6457,0
+29931,29,American Indian,Other,old,730,5292,1
+72484,41,White,Female,new,708,5712,1
+96281,22,Hispanic,Male,old,719,6982,1
+55081,46,White,Female,new,664,3295,0
+79483,54,White,Female,old,833,3172,1
+70642,42,African American,Female,old,773,8883,1
+11330,54,Hispanic,Female,old,626,5686,0
+57349,59,White,Other,old,753,6404,1
+86251,30,White,Male,old,804,2575,0
+12324,33,White,Female,old,781,666,0
+12816,37,African American,Other,old,760,2637,1
+91629,22,White,Other,old,730,3697,0
+55146,41,African American,Other,old,726,6356,0
+59990,27,Hispanic,Female,old,613,6165,0
+95662,59,American Indian,Other,new,839,9185,0
+87886,30,Hispanic,Other,old,747,1534,1
+73323,37,African American,Other,old,606,6590,1
+55093,56,White,Male,old,640,1259,0
+58001,50,White,Female,old,803,7459,1
+91369,61,White,Male,old,839,5151,1
+69947,44,White,Female,new,831,5072,1
+75040,49,African American,Male,old,693,4297,1
+88013,30,White,Female,old,823,1481,1
+95611,27,American Indian,Male,old,822,3492,1
+19815,31,White,Female,old,733,4560,0
+15415,25,White,Female,old,755,5103,1
+94966,62,Hispanic,Female,old,773,6235,1
+86884,24,White,Female,old,628,2494,1
+28367,27,White,Female,new,674,8223,0
+28481,36,White,Other,old,811,4850,1
+40011,34,White,Female,old,707,4872,1
+75109,21,White,Female,old,635,5263,0
+71480,48,White,Male,new,609,7954,0
+81554,21,White,Male,old,783,3146,0
+72867,63,White,Other,old,656,6343,1
+66404,50,White,Other,old,628,9453,1
+90281,55,White,Female,old,631,4761,0
+66189,52,White,Other,old,642,6149,0
+30883,57,African American,Male,old,841,3382,0
+22508,36,African American,Male,old,755,7453,1
+30416,62,African American,Male,old,691,5731,1
+52540,45,African American,Male,new,738,9809,0
+39282,47,Hispanic,Male,old,824,6561,1
+98536,49,Asian,Female,old,839,1595,1
+96225,60,White,Other,old,631,9214,1
+65921,35,White,Other,new,686,8177,1
+66671,30,White,Male,new,756,5493,1
+38024,38,White,Female,new,609,9193,0
+99408,22,African American,Female,old,736,7756,0
+96105,43,White,Other,new,809,1873,0
+38596,58,American Indian,Female,old,801,6720,0
+63358,56,White,Female,old,661,2903,1
+37817,31,Asian,Male,old,844,1363,1
+46502,47,American Indian,Other,new,650,9924,1
+46355,39,White,Female,old,762,7655,0
+23572,32,White,Female,old,641,8035,1
+95512,30,White,Female,old,781,2313,1
+17673,40,African American,Other,old,616,4921,0
+50576,38,African American,Female,new,600,6073,1
+25516,27,Hispanic,Female,new,673,5731,1
+49344,49,White,Other,old,821,8299,0
+52377,22,White,Female,old,788,6557,0
+94494,38,White,Female,old,688,4150,1
+24949,34,African American,Male,old,639,5252,0
+79006,42,White,Male,old,693,5646,0
+32946,60,American Indian,Other,new,831,9475,1
+52796,26,White,Other,new,781,1047,1
+16856,39,African American,Other,old,643,5480,1
+90951,64,Asian,Female,old,753,4570,1
+36423,54,African American,Female,old,816,3989,1
+76055,55,White,Male,old,734,1129,0
+47286,37,White,Other,old,604,2666,1
+23071,51,White,Female,old,847,1465,0
+34246,29,White,Male,old,600,8873,1
+57444,44,Hispanic,Male,old,695,4333,0
+86070,21,White,Female,new,733,633,1
+79294,34,Hispanic,Other,old,748,7907,1
+99369,63,White,Male,old,829,2311,0
+86986,30,White,Male,old,797,1298,0
+95411,43,Hispanic,Male,new,633,8688,0
+11072,54,American Indian,Other,old,603,2328,0
+11112,32,White,Female,new,763,3013,1
+62468,26,African American,Female,old,718,2154,0
+12630,22,White,Male,old,623,4469,0
+94899,21,African American,Male,new,607,5807,1
+28290,61,White,Other,new,738,3333,0
+17414,50,American Indian,Female,old,821,7911,1
+68140,57,Asian,Female,new,807,4239,0
+90495,30,African American,Other,old,648,1798,0
+32483,57,African American,Other,old,849,5475,1
+81134,21,White,Female,new,736,8334,0
+23956,61,White,Male,new,661,2914,0
+36658,35,White,Male,old,675,7366,1
+86377,38,White,Female,old,650,6323,1
+43548,56,White,Male,old,757,8786,1
+77543,29,White,Female,new,780,3668,0
+71133,61,White,Male,old,841,3284,1
+39180,45,White,Male,new,674,2560,1
+48389,52,White,Female,old,814,8670,0
+50216,50,White,Male,new,619,9014,0
+49155,25,White,Female,new,849,3272,1
+47035,23,African American,Female,old,847,6576,0
+86082,24,African American,Female,old,608,2553,0
+83914,25,White,Male,old,673,1650,1
+35067,55,White,Male,old,661,1881,0
+76286,45,African American,Female,new,686,8718,1
+36091,29,White,Male,old,814,7941,1
+28165,29,White,Other,old,766,1218,1
+40937,46,White,Female,old,676,4328,1
+27978,29,White,Male,new,809,7446,1
+41894,52,White,Female,new,808,1920,0
+95819,59,American Indian,Male,new,671,5549,0
+56031,53,White,Female,old,795,9507,0
+45291,48,White,Male,new,707,1044,0
+99945,57,Asian,Male,new,798,771,1
+86897,47,African American,Other,new,738,5165,0
+75712,56,Asian,Male,old,637,1400,1
+19993,31,White,Female,old,717,5213,0
+67545,31,Hispanic,Male,old,608,7751,0
+66055,35,African American,Female,new,701,4991,0
+34426,25,White,Male,old,694,9720,0
+66539,28,Asian,Other,old,753,2019,1
+61992,29,White,Male,old,782,4446,0
+80133,38,White,Female,new,744,9139,1
+87306,44,Asian,Other,old,663,8907,1
+52066,39,White,Other,old,693,6017,0
+62309,33,White,Male,old,636,3686,1
+34146,60,Hispanic,Male,new,642,5167,1
+21099,48,African American,Other,new,642,7097,0
+29925,25,White,Other,new,603,9981,1
+35134,61,African American,Female,new,730,5670,0
+49363,53,American Indian,Female,old,737,8605,0
+50574,54,African American,Female,old,759,6566,0
+26785,40,White,Male,old,634,8868,0
+21398,57,White,Male,old,804,1097,1
+81717,59,White,Other,old,612,6610,1
+94139,29,White,Other,old,730,2622,0
+49178,39,Asian,Other,old,818,2676,0
+20537,55,American Indian,Other,old,834,4348,1
+55642,45,White,Other,old,826,4174,1
+56280,33,African American,Female,old,847,2435,0
+27564,23,White,Female,new,742,3195,0
+78731,44,White,Female,old,816,4369,0
+42517,53,Hispanic,Female,old,778,9018,0
+80155,25,African American,Other,new,709,6857,1
+42831,30,White,Male,new,767,9076,1
+37354,50,White,Other,old,798,2980,1
+56444,63,White,Other,old,817,2523,0
+15676,41,White,Male,new,841,5738,1
+78284,59,White,Male,old,622,9545,1
+18211,23,African American,Other,old,770,4325,1
+19543,42,White,Male,old,797,4542,1
+87614,61,White,Other,new,759,657,1
+55956,41,White,Male,old,606,7691,0
+48451,34,African American,Female,old,724,4906,0
+32309,62,White,Female,old,612,8067,0
+39530,44,African American,Female,old,848,827,1
+59065,50,White,Other,new,616,7158,1
+33781,64,White,Female,old,634,4370,0
+18020,34,American Indian,Male,old,716,5408,1
+11616,59,White,Male,old,674,1776,0
+21014,37,African American,Female,new,623,3029,1
+83219,50,White,Male,old,691,8764,1
+31846,47,White,Other,old,829,7785,0
+76273,38,White,Female,new,804,7948,0
+75008,56,White,Female,old,637,7692,0
+76719,38,White,Male,new,799,931,1
+97942,45,African American,Other,old,739,8136,0
+50559,62,White,Female,new,726,5432,0
+22664,36,White,Male,new,818,1793,0
+85835,41,White,Female,old,776,5463,1
+95404,27,African American,Other,new,809,3902,1
+18197,28,Hispanic,Other,old,818,1343,1
+58089,60,African American,Other,old,641,8303,0
+87346,55,African American,Female,old,695,9156,1
+68646,31,White,Other,new,643,9855,0
+56418,45,White,Female,old,753,3036,1
+13588,27,White,Other,old,689,8137,1
+49164,32,White,Male,old,661,1163,0
+38078,36,White,Other,old,810,1519,0
+95590,49,White,Female,old,708,767,1
+80249,33,American Indian,Male,old,729,4786,0
+30805,32,White,Male,old,728,9451,0
+65092,29,White,Male,old,684,7504,1
+71763,27,Hispanic,Male,new,783,2407,0
+86739,23,African American,Other,new,604,3476,0
+95455,31,White,Male,old,794,726,0
+57943,29,Asian,Female,old,689,2858,0
+91994,51,Asian,Other,old,793,3896,1
+47622,40,White,Female,old,816,1161,1
+31739,31,White,Male,new,613,567,1
+89659,35,White,Male,old,743,4348,0
+39170,25,White,Other,new,652,1554,0
+97258,62,African American,Female,old,779,7794,1
+23125,52,White,Other,old,716,8687,0
+62663,55,White,Female,old,696,9298,0
+17719,26,African American,Female,new,738,8820,0
+23732,29,White,Male,new,840,1265,0
+27378,24,Hispanic,Other,old,758,6988,0
+87955,54,Hispanic,Female,old,848,1842,1
+74503,29,White,Female,new,815,5756,1
+80808,37,White,Other,old,604,2877,1
+59395,22,African American,Other,old,803,1182,1
+61909,59,White,Male,old,646,4513,1
+27776,25,White,Other,old,803,2915,1
+47733,39,White,Male,new,635,1219,0
+72863,24,White,Other,new,821,1328,0
+24607,21,Asian,Other,new,744,6527,0
+89773,40,White,Male,new,794,9829,1
+61512,25,White,Female,old,721,5376,0
+44374,38,White,Other,new,692,5121,0
+35892,27,Asian,Female,old,656,6575,1
+69273,62,White,Other,old,779,5904,1
+15925,25,African American,Male,old,602,8203,1
+48675,29,White,Other,old,601,4611,0
+76274,36,White,Male,old,724,3848,1
+10384,62,Hispanic,Other,old,825,3226,1
+67801,30,Hispanic,Female,old,726,7294,0
+73428,55,White,Other,old,755,8815,1
+67387,58,African American,Male,new,799,730,0
+37084,21,African American,Other,old,716,4035,0
+73882,55,White,Other,new,810,554,1
+75753,50,African American,Male,new,806,6145,1
+91105,45,White,Other,new,669,6450,1
+49204,32,White,Female,old,687,9127,0
+26597,34,White,Male,old,643,2614,0
+96797,22,White,Other,old,605,4493,0
+77558,47,African American,Female,new,825,4364,0
+47448,61,White,Female,old,631,4964,1
+42624,46,White,Female,old,716,1383,0
+46791,43,White,Male,old,625,7056,1
+39350,34,White,Other,old,649,9683,0
+46691,48,African American,Male,old,708,6067,0
+80265,35,White,Male,new,681,9717,1
+82504,28,African American,Male,old,747,6870,1
+98388,23,White,Other,old,660,5659,1
+21635,34,African American,Other,old,746,7710,0
+82083,60,African American,Other,old,778,5991,1
+50975,59,African American,Female,old,783,4985,0
+32908,50,White,Other,new,653,9518,0
+71487,61,African American,Female,old,829,2644,1
+83879,61,African American,Female,old,801,1627,1
+82315,41,White,Female,old,725,1094,0
+13326,29,African American,Male,old,755,1984,0
+26495,31,White,Male,old,807,8587,1
+81185,25,Hispanic,Other,new,675,9890,0
+31727,27,African American,Other,old,795,9562,1
+60824,37,White,Male,old,813,9938,1
+19434,34,White,Male,old,696,8362,0
+96409,35,White,Male,old,781,5525,1
+99360,30,Hispanic,Male,old,737,8514,0
+67993,42,African American,Male,new,790,9393,0
+47070,27,African American,Male,new,756,1505,0
+86294,53,White,Other,old,696,5316,1
+95270,55,White,Female,new,773,4117,0
+96933,23,White,Other,new,730,9549,0
+91487,30,American Indian,Male,new,731,5066,1
+24957,44,White,Other,old,814,3420,0
+56284,40,White,Female,old,639,4233,1
+16120,21,White,Other,old,811,9110,0
+45332,46,White,Female,old,814,6976,0
+93243,45,African American,Female,old,700,2727,0
+63906,63,White,Female,old,680,5614,1
+71068,60,White,Other,new,715,5768,0
+32624,36,White,Other,new,646,8292,1
+95743,35,White,Other,old,607,3936,0
+67911,45,White,Female,old,832,6497,1
+50352,63,White,Male,old,731,875,1
+52833,50,White,Other,old,683,1070,1
+19124,51,White,Male,new,656,5826,0
+28646,31,White,Other,old,653,8442,0
+17209,22,White,Male,old,754,7119,1
+13262,22,White,Female,new,640,5061,1
+49883,46,White,Male,old,652,2010,0
+34063,41,White,Female,new,672,4851,0
+84496,31,African American,Male,old,609,3708,0
+62167,21,Asian,Other,old,847,2258,1
+23639,57,Asian,Male,old,737,7316,0
+22155,38,Asian,Female,new,768,5039,0
+91580,42,African American,Female,old,636,9078,1
+30675,24,White,Other,old,601,6508,1
+95388,38,Asian,Male,old,717,2261,0
+34891,26,American Indian,Other,old,651,1613,1
+94558,64,Asian,Female,new,799,3220,0
+62500,50,White,Other,old,786,840,0
+88599,51,White,Female,old,722,8785,1
+65644,32,White,Other,old,763,8631,1
+21894,59,African American,Other,old,673,5376,1
+85782,61,White,Male,new,663,8074,1
+23189,23,American Indian,Female,new,672,4229,0
+66805,52,Hispanic,Male,new,799,1886,1
+15411,59,African American,Other,old,821,9219,0
+10894,22,White,Other,old,660,8664,1
+55687,42,White,Other,new,636,1506,0
+97418,61,White,Male,new,832,9888,1
+71324,24,American Indian,Female,new,663,5505,1
+10881,27,African American,Female,old,710,6588,1
+12738,62,American Indian,Male,old,754,9033,1
+52206,62,African American,Female,old,817,5216,1
+65542,61,White,Female,old,631,2941,1
+58574,34,African American,Female,new,804,6156,0
+78850,21,African American,Other,new,771,3019,0
+17186,35,Asian,Other,old,649,9642,0
+82635,29,White,Male,old,768,5939,0
+18686,61,White,Other,new,830,3271,0
+59774,45,White,Other,old,842,3235,0
+18655,42,African American,Male,new,723,1860,1
+49195,45,African American,Other,old,726,2964,0
+34689,57,African American,Other,old,661,5901,1
+24424,33,White,Other,new,752,5498,0
+40845,60,White,Male,old,694,4086,1
+96441,31,White,Male,old,751,7732,1
+12504,46,White,Female,old,735,6935,1
+90408,35,White,Other,old,793,7434,0
+60258,31,Asian,Other,old,796,3931,0
+30518,30,White,Male,old,745,5334,0
+45442,47,White,Female,new,637,4399,1
+99217,45,African American,Female,old,624,9395,0
+36280,56,White,Female,old,735,4334,1
+32991,49,White,Male,new,737,6483,0
+57103,24,White,Male,old,641,794,0
+82019,44,White,Female,new,725,9244,1
+96481,34,White,Male,new,787,6681,0
+43830,25,African American,Male,old,665,9234,0
+97769,27,American Indian,Other,new,792,2905,0
+83951,56,White,Other,old,822,4939,0
+89932,33,Hispanic,Male,old,668,4666,0
+45640,21,White,Female,old,649,5928,1
+49468,53,African American,Female,old,761,7737,1
+82215,33,White,Other,old,635,3170,0
+85050,22,American Indian,Female,old,723,2108,1
+43471,56,White,Female,old,636,5071,0
+71729,25,White,Female,old,770,8659,0
+41657,50,African American,Male,new,809,9262,0
+39607,59,Hispanic,Male,old,615,5876,1
+58953,61,Asian,Female,old,844,5939,0
+17623,32,White,Female,old,631,1033,1
+43009,27,White,Female,old,762,6687,0
+55251,41,African American,Male,new,687,4768,1
+35976,32,White,Male,old,690,8559,1
+15156,32,Asian,Female,new,655,8735,1
+78608,42,White,Male,old,812,1486,0
+80327,32,White,Female,new,665,1712,0
+62523,36,White,Male,old,789,1166,1
+35257,23,Hispanic,Male,old,608,9483,0
+99406,35,White,Other,new,761,1649,1
+17041,54,White,Other,old,773,7566,0
+43152,31,White,Other,new,694,1779,0
+15371,57,African American,Male,old,764,6365,1
+45619,28,American Indian,Female,new,702,1708,1
+71242,54,Asian,Other,new,779,8683,0
+63882,27,Hispanic,Female,old,731,1728,1
+80966,37,White,Other,old,797,3855,1
+28596,54,White,Female,old,722,1800,1
+77678,29,White,Female,old,796,9761,0
+57276,36,White,Male,old,837,3587,1
+39957,43,White,Female,new,737,9435,1
+28705,39,White,Female,old,823,7390,0
+68931,52,White,Female,old,766,2705,0
+50634,23,White,Other,old,741,7561,1
+39243,27,African American,Female,old,715,9159,1
+47340,29,White,Other,new,633,6391,1
+22412,42,White,Male,old,656,6379,0
+98101,37,American Indian,Male,old,680,694,1
+63203,42,White,Female,new,781,6939,1
+58886,63,White,Female,new,713,7292,1
+67361,61,African American,Female,old,699,2347,0
+59973,56,African American,Male,old,766,7006,0
+97211,39,Hispanic,Male,new,611,5562,0
+97131,62,White,Male,old,828,6359,1
+42615,29,African American,Female,old,640,2077,0
+80095,34,White,Female,old,760,1200,1
+23569,46,African American,Other,old,780,8125,1
+27017,43,White,Other,old,731,8896,0
+86731,27,African American,Female,new,686,3574,0
+51271,56,White,Male,old,804,8714,0
+17457,21,African American,Female,old,780,7097,1
+90634,26,Hispanic,Male,new,614,9120,1
+43906,55,White,Other,old,798,8630,1
+54567,28,White,Male,old,774,9455,0
+30577,45,African American,Female,new,760,3603,1
+72197,52,White,Male,old,784,4274,0
+87710,46,American Indian,Other,new,804,5217,1
+27281,38,African American,Male,old,663,5011,1
+62541,25,White,Female,old,682,8933,1
+75900,33,African American,Male,old,723,830,0
+28422,45,White,Other,new,724,9625,1
+76152,38,White,Male,old,783,8513,1
+56850,64,White,Female,old,653,2803,1
+23131,36,African American,Female,old,696,4560,1
+56320,53,American Indian,Female,old,744,2657,1
+39540,41,American Indian,Female,old,776,1205,1
+33034,23,White,Female,old,631,5446,1
+93769,28,White,Male,old,606,5086,0
+28426,61,White,Other,old,794,2317,0
+68656,53,White,Male,old,623,7090,0
+74324,54,Hispanic,Female,old,824,2101,1
+62319,43,White,Female,old,645,7784,0
+63380,43,White,Other,old,697,3210,1
+83865,40,White,Other,new,610,642,0
+88783,60,Hispanic,Male,old,771,4351,0
+93308,56,White,Other,old,670,2700,1
+73731,55,African American,Male,old,800,5546,1
+48718,55,Hispanic,Male,new,617,9164,0
+15069,57,Asian,Other,new,831,6859,0
+25592,47,Hispanic,Female,old,828,1118,0
+67887,58,White,Female,old,812,3593,0
+94604,37,White,Female,old,747,2162,0
+72569,28,White,Male,old,659,1457,1
+46946,44,American Indian,Female,old,837,9901,0
+62195,40,White,Male,old,834,1797,1
+94643,33,White,Other,old,834,8937,1
+41830,43,White,Male,old,840,3702,1
+44680,53,White,Other,old,650,4376,0
+92082,56,White,Other,new,684,711,0
+47740,60,White,Female,new,688,1537,1
+51368,39,African American,Other,old,604,5530,0
+68888,26,White,Male,old,800,4831,1
+32497,51,White,Male,old,629,3973,1
+38689,39,White,Other,old,630,2503,1
+29210,32,White,Female,old,838,1680,0
+58566,39,White,Other,old,701,2217,0
+36662,54,African American,Female,new,771,5936,0
+92695,62,African American,Male,old,841,7548,0
+88723,57,African American,Other,old,845,1892,1
+99921,30,White,Female,new,765,6340,0
+13780,61,White,Female,new,746,8664,1
+23672,45,White,Male,old,717,8530,0
+49394,57,White,Female,new,614,8640,0
+37305,56,White,Female,new,819,2214,0
+29069,44,White,Male,old,742,1770,0
+80280,36,Hispanic,Other,old,685,2858,0
+47071,36,White,Male,new,799,2675,1
+97105,51,White,Female,old,847,9353,1
+32336,56,Hispanic,Female,old,787,4246,1
+91296,58,American Indian,Female,old,751,1049,1
+76296,61,White,Other,old,709,6770,0
+61596,29,American Indian,Other,old,790,6779,0
+21752,32,White,Other,old,778,1178,1
+34839,25,White,Other,old,626,7866,0
+94512,64,African American,Female,old,655,910,0
+98430,22,African American,Other,old,700,9598,1
+31477,21,American Indian,Other,old,704,9811,0
+23090,39,White,Female,old,764,1794,0
+41443,57,White,Female,old,798,3502,1
+27602,62,White,Other,old,779,9580,1
+37132,41,White,Female,old,754,8868,1
+68573,64,African American,Female,old,634,9152,1
+71521,27,Asian,Male,old,805,3098,1
+82568,26,White,Female,old,777,9944,1
+44677,42,Hispanic,Female,old,710,2836,0
+46357,56,African American,Other,new,621,6872,1
+31193,22,White,Other,new,710,7123,0
+38801,62,White,Other,old,666,4884,0
+68484,39,White,Other,old,627,1852,0
+44478,63,White,Other,old,770,6307,1
+62830,57,White,Female,old,641,3813,0
+80819,42,African American,Female,old,761,8342,0
+99690,37,White,Male,old,723,1609,1
+20978,48,White,Other,old,732,9930,1
+54614,39,White,Female,new,715,5109,0
+16088,59,African American,Female,old,646,7612,1
+37034,27,Asian,Other,old,841,8027,1
+57252,59,White,Female,new,803,5733,1
+57038,44,White,Female,old,690,4768,1
+19289,45,White,Other,old,755,2262,1
+67642,37,African American,Female,old,641,4094,0
+70232,26,White,Male,new,729,7331,0
+53844,51,White,Female,old,754,1083,0
+18935,43,White,Female,old,744,619,1
+92677,54,African American,Other,old,840,3151,1
+15671,40,Hispanic,Other,old,634,6553,1
+53059,63,White,Other,new,604,9086,0
+34547,31,White,Other,old,639,5806,1
+86464,62,White,Female,old,735,9721,1
+37111,54,White,Female,old,765,2603,0
+91890,48,Asian,Other,old,805,1539,0
+69931,23,White,Male,new,833,8196,1
+18566,44,White,Other,new,647,4263,1
+98382,39,White,Female,old,744,8648,0
+28349,39,African American,Other,new,800,5654,0
+13528,64,White,Female,old,664,726,0
+46791,43,White,Other,old,709,9164,0
+18826,44,American Indian,Female,new,828,6307,1
+81862,51,African American,Male,old,616,8818,1
+28590,43,American Indian,Female,old,671,2376,1
+20658,52,White,Other,old,724,3787,1
+10956,28,White,Male,old,664,8008,0
+34037,58,Asian,Other,old,669,2387,1
+79961,22,White,Male,old,790,3359,1
+22271,46,White,Female,old,620,5639,1
+24080,50,White,Male,old,771,7325,1
+53998,57,White,Male,old,839,3391,0
+30764,28,White,Female,old,800,8416,0
+62035,61,African American,Male,old,673,7647,0
+28268,58,White,Female,old,666,3739,1
+37056,46,White,Male,old,616,7212,1
+31719,30,African American,Male,old,630,2293,1
+92488,51,White,Female,new,685,9143,1
+26390,51,White,Male,old,806,7517,0
+48908,42,White,Other,new,808,2128,1
+87877,59,White,Other,old,751,3278,1
+40372,33,African American,Other,old,711,2284,0
+75557,39,White,Male,old,669,881,1
+29433,26,White,Other,old,729,1373,1
+73825,26,White,Female,new,838,6695,1
+39004,21,White,Female,old,636,6563,0
+61716,25,White,Other,old,676,4368,1
+31822,22,African American,Other,old,751,4778,0
+64593,36,White,Other,new,745,4312,0
+67090,62,White,Other,old,838,5911,0
+85807,39,White,Other,new,844,7901,1
+71745,48,Asian,Other,old,665,5990,1
+13518,45,White,Female,new,624,9599,0
+81015,55,White,Other,old,722,7819,1
+50725,28,Hispanic,Female,old,757,3817,1
+99579,61,White,Male,old,612,4282,1
+68683,57,Hispanic,Female,old,845,7120,0
+47907,41,Hispanic,Female,old,792,7972,1
+48960,40,Hispanic,Female,new,760,632,0
+60787,36,White,Male,old,687,3075,1
+49912,24,White,Female,old,795,7301,1
+21741,46,Asian,Male,new,827,5090,0
+57039,29,Asian,Female,new,776,4821,0
+72847,36,African American,Female,new,690,5025,0
+53193,52,White,Female,old,726,1945,0
+63459,34,Hispanic,Female,old,649,9458,1
+23517,27,African American,Female,old,615,5207,1
+77167,57,African American,Male,new,818,8803,0
+53770,31,White,Other,old,819,2385,1
+32261,53,African American,Other,old,797,1696,0
+39063,23,African American,Female,new,770,4858,0
+38744,46,White,Other,old,769,9269,0
+62055,40,American Indian,Female,old,785,7792,0
+45498,22,Hispanic,Female,old,828,3459,1
+44488,40,American Indian,Female,new,754,3180,0
+98409,27,African American,Other,new,775,896,0
+15468,21,Asian,Female,old,741,4770,0
+62401,44,African American,Female,old,795,1533,1
+25437,33,White,Female,new,636,4559,1
+52852,60,White,Male,new,700,5225,1
+15329,51,White,Other,old,806,3812,1
+18434,37,White,Male,old,843,1942,1
+83441,51,African American,Other,new,765,7250,1
+41231,28,American Indian,Female,new,616,9026,0
+82374,39,Hispanic,Female,new,677,1570,0
+57098,39,African American,Female,new,664,660,1
+66990,52,White,Other,old,630,4599,1
+46408,53,African American,Female,old,778,1178,0
+48185,57,African American,Male,new,784,4053,0
+44722,47,White,Other,old,766,8469,1
+99606,32,White,Female,new,710,1647,1
+32903,40,White,Other,new,772,2366,1
+28726,28,Hispanic,Other,old,648,7689,0
+13511,21,White,Male,old,740,1503,1
+81738,45,African American,Female,old,729,3226,1
+61769,50,American Indian,Other,new,759,9947,0
+73333,64,White,Male,new,692,6637,1
+15836,36,White,Male,old,749,4661,1
+58676,59,African American,Other,old,651,6982,1
+55327,56,White,Female,new,667,9556,1
+54778,49,White,Female,new,728,1036,1
+14510,63,Asian,Female,old,725,1779,1
+58930,56,African American,Other,old,822,2187,0
+99038,58,White,Female,old,730,3758,1
+19689,63,African American,Female,old,733,3188,1
+66381,38,African American,Female,old,774,1016,1
+82801,54,White,Male,old,696,5248,0
+11443,64,White,Male,old,804,8355,1
+15794,26,Hispanic,Other,old,691,8421,1
+81323,53,White,Other,old,659,6602,0
+45835,49,White,Female,old,630,757,0
+19575,47,Asian,Female,new,744,8680,1
+50591,41,White,Other,old,634,2936,1
+83412,64,White,Other,new,837,2436,0
+22546,30,White,Female,new,721,1759,0
+46610,48,White,Male,new,670,8997,1
+40246,48,White,Other,old,614,7637,1
+54527,44,White,Male,old,783,8108,1
+65462,47,American Indian,Male,old,686,9316,0
+69083,57,African American,Other,old,746,5531,0
+97382,40,American Indian,Male,old,698,2324,1
+81579,46,White,Female,old,686,4915,1
+97955,63,White,Other,new,672,5061,0
+98607,56,Asian,Female,old,820,9873,0
+17970,37,White,Other,old,807,1159,0
+88301,30,White,Other,old,735,1353,1
+84195,63,White,Female,new,603,7444,0
+52461,57,White,Female,new,695,4441,0
+14742,31,Hispanic,Other,old,750,2275,1
+13256,33,Hispanic,Female,old,792,8644,0
+80416,23,African American,Female,old,624,7260,1
+15224,46,White,Female,old,805,9675,0
+31717,43,White,Male,new,762,8195,1
+87868,48,White,Other,new,727,8219,0
+12790,22,White,Male,new,736,8466,1
+56235,46,White,Male,old,828,5134,1
+83117,50,White,Female,new,809,7534,0
+52641,53,White,Male,old,686,7118,1
+90444,51,African American,Female,old,613,5643,0
+90777,58,White,Female,old,833,2893,0
+87851,33,Asian,Other,old,750,2478,0
+47149,63,White,Other,old,732,1095,1
+28790,28,Hispanic,Other,old,717,5488,1
+21018,33,White,Female,new,736,4067,1
+93158,36,White,Male,old,830,9332,0
+42940,27,White,Female,new,639,3701,0
+18623,25,White,Male,old,665,736,1
+41039,56,African American,Female,old,766,4665,0
+34423,47,White,Female,old,804,2894,0
+91726,50,African American,Female,old,844,4138,0
+43227,58,White,Female,old,687,6688,0
+49355,28,Asian,Other,old,831,5574,0
+93583,49,Hispanic,Male,old,700,717,1
+39464,29,African American,Other,old,778,7449,1
+35987,54,White,Female,new,726,2891,1
+42162,27,White,Other,old,730,5178,0
+22277,54,White,Female,old,785,6949,0
+34055,59,White,Other,new,656,6797,0
+95814,22,American Indian,Male,old,627,1301,1
+82177,46,African American,Other,old,745,4849,0
+76379,37,African American,Male,old,798,8063,1
+56526,60,African American,Male,old,652,9869,0
+11898,51,American Indian,Other,new,766,8187,0
+57802,25,White,Male,old,774,7854,1
+71685,24,White,Other,new,607,2762,1
+82052,33,African American,Other,old,836,6709,1
+67847,41,White,Female,old,735,2796,0
+45520,32,White,Other,old,738,2923,1
+91082,52,African American,Other,new,600,3163,0
+51069,64,White,Female,old,812,1266,1
+35231,39,White,Other,new,600,5916,0
+29089,59,White,Other,new,752,3000,1
+81583,25,White,Male,old,656,3936,0
+83008,58,Asian,Other,new,741,6192,1
+65945,46,Asian,Other,old,668,3828,0
+26924,48,American Indian,Female,new,815,6902,0
+32993,25,Asian,Female,old,697,7660,0
+53150,36,American Indian,Other,old,806,1335,0
+22503,21,African American,Other,old,712,8696,0
+55184,21,African American,Other,old,835,8615,0
+98763,39,White,Other,old,802,5293,1
+25177,39,White,Other,old,762,4005,0
+35276,44,African American,Other,old,849,4002,1
+65499,52,White,Female,old,814,5115,0
+57783,58,White,Other,old,622,579,0
+97472,40,White,Male,old,705,6881,0
+97008,43,Hispanic,Other,old,738,6834,0
+86351,29,White,Other,old,677,2873,1
+37924,55,Hispanic,Male,new,769,6723,1
+65526,47,African American,Male,new,717,2369,1
+43621,60,White,Female,old,736,6058,1
+59363,45,American Indian,Female,old,674,7376,0
+71633,50,White,Other,old,658,1701,1
+87809,58,White,Female,old,741,7125,1
+26858,37,White,Female,old,636,6083,1
+98963,45,White,Other,old,616,6859,0
+70017,47,White,Male,new,785,7618,0
+36010,35,White,Female,new,755,1793,1
+54686,48,African American,Male,old,712,7841,1
+45302,32,African American,Other,old,635,5845,0
+49160,26,Hispanic,Other,old,607,2680,0
+14174,37,White,Female,new,785,1998,1
+68410,51,White,Male,old,845,1782,1
+25309,62,Hispanic,Female,old,616,1687,0
+54722,64,White,Other,old,645,3624,1
+20323,29,White,Female,old,775,7222,1
+53066,34,African American,Male,old,613,1675,1
+42734,47,African American,Female,old,841,2065,0
+70272,33,White,Female,old,836,6131,1
+12816,44,White,Other,old,655,3290,0
+62119,45,White,Other,old,618,1900,1
+85389,44,Hispanic,Male,old,636,7443,0
+48918,25,White,Other,old,794,6154,1
+30098,28,White,Male,old,718,8790,0
+34720,56,White,Other,old,684,1171,1
+64317,31,White,Male,old,817,2552,1
+32479,43,White,Male,old,849,9608,1
+69423,55,White,Female,old,761,3892,1
+34248,33,African American,Other,old,730,545,1
+54873,50,African American,Female,old,816,3146,0
+35892,39,White,Other,old,743,1646,1
+16670,52,White,Female,old,618,9209,0
+39161,39,Asian,Female,old,645,6262,0
+63584,39,White,Male,old,728,8566,0
+89888,44,White,Female,old,633,4196,1
+20301,26,American Indian,Other,old,663,1717,0
+41954,35,Hispanic,Male,new,621,4930,1
+26350,59,White,Female,old,804,5308,1
+84804,35,American Indian,Male,old,798,6354,0
+41195,47,White,Female,old,721,4133,0
+52931,54,White,Female,old,641,1849,1
+31839,25,White,Female,old,711,3848,0
+39127,21,White,Male,new,795,971,0
+26652,23,White,Male,old,755,6203,0
+22860,55,White,Other,old,657,3905,0
+61923,37,American Indian,Male,old,782,8716,1
+65333,63,White,Male,old,788,3740,1
+73818,41,White,Male,old,657,9180,1
+24233,47,White,Female,old,795,3242,1
+91917,28,White,Female,old,780,3556,0
+50171,21,Hispanic,Male,new,751,4603,0
+65535,47,African American,Female,old,682,9475,0
+83461,41,African American,Other,new,609,1564,1
+41595,57,White,Female,new,646,4280,0
+18945,40,White,Other,old,727,2021,1
+47728,44,White,Female,old,726,5529,0
+62073,37,White,Male,old,674,8355,1
+29317,34,African American,Female,old,679,9227,0
+74020,64,White,Male,old,835,8606,0
+21763,41,White,Male,old,766,9717,1
+79449,35,African American,Other,old,761,5378,1
+98208,45,White,Other,old,698,3376,1
+38502,54,African American,Other,new,810,2387,1
+69169,21,White,Female,old,637,8399,1
+31073,25,Hispanic,Other,old,601,880,0
+74477,38,White,Female,new,601,4010,0
+66887,23,Hispanic,Male,old,799,3187,1
+13967,35,White,Female,new,603,1097,1
+99299,38,White,Male,new,814,6226,0
+51094,53,White,Male,old,621,4887,0
+84169,23,White,Male,old,833,1192,0
+44351,50,White,Female,old,649,1037,1
+74677,62,White,Female,new,838,2366,1
+74811,48,White,Male,old,807,8290,1
+31611,47,White,Male,old,658,7830,0
+13565,38,White,Other,new,665,7403,0
+50536,42,White,Female,old,833,2915,0
+73350,44,White,Male,old,678,5826,0
+55568,50,Hispanic,Other,old,771,9978,0
+94290,44,White,Male,old,610,2235,0
+49900,30,White,Female,new,764,2242,1
+80705,41,White,Male,old,696,6968,0
+74092,46,American Indian,Female,old,618,5326,1
+18999,29,White,Other,old,761,8625,0
+36635,58,White,Other,old,645,2733,0
+64489,26,White,Male,old,617,6345,0
+34489,64,African American,Female,new,642,7936,1
+45007,64,African American,Other,new,842,6095,1
+51197,30,African American,Male,new,664,4040,1
+78587,37,White,Female,old,804,5754,0
+84104,57,African American,Other,old,697,5815,0
+64139,31,Hispanic,Other,new,814,1819,0
+84919,48,American Indian,Female,old,810,9179,0
+40696,44,White,Female,old,670,6109,0
+61978,29,White,Female,old,793,4203,1
+10954,46,Hispanic,Female,old,741,1527,1
+23397,31,African American,Other,old,644,4983,1
+32860,64,White,Other,old,617,5471,0
+56389,21,White,Female,old,782,4278,0
+87071,27,White,Other,old,768,3863,0
+65354,24,African American,Male,new,639,2345,1
+23723,49,Hispanic,Male,old,726,4421,0
+55073,43,White,Male,old,840,6963,0
+88522,51,African American,Female,old,725,5564,0
+31969,62,White,Female,old,790,2164,1
+62916,55,White,Other,new,837,7166,1
+43076,48,White,Female,old,783,1237,1
+52146,43,African American,Male,old,817,3022,1
+48593,51,White,Other,old,633,3773,0
+36075,32,African American,Male,old,824,9790,0
+22097,57,White,Male,old,665,3376,1
+78589,56,Hispanic,Other,old,638,7073,1
+22971,50,Hispanic,Male,new,723,4337,1
+15166,50,African American,Other,old,737,8259,0
+92053,36,African American,Male,new,712,1100,1
+99559,52,Hispanic,Female,old,771,4365,1
+57056,58,White,Other,old,773,1614,0
+17932,59,Hispanic,Female,old,820,1418,1
+30674,50,White,Female,old,842,6804,0
+23252,25,White,Female,old,813,3100,0
+97132,24,White,Female,new,793,3556,1
+76452,58,American Indian,Male,old,711,1025,1
+44762,55,Hispanic,Female,old,685,5227,0
+23348,22,Asian,Female,new,606,6766,0
+49971,28,White,Other,new,606,2830,0
+96422,55,African American,Male,new,839,4398,1
+47623,52,White,Male,old,638,2414,0
+98303,23,White,Female,new,621,9347,0
+74348,23,White,Male,old,756,4520,0
+72656,58,African American,Female,new,832,7272,1
+42167,51,African American,Female,old,719,5597,0
+14829,24,White,Female,old,742,8607,1
+61889,38,White,Female,new,839,6942,1
+75036,25,White,Female,old,802,1686,0
+35395,49,Asian,Male,old,706,3641,0
+90280,41,American Indian,Other,old,765,943,1
+93730,46,American Indian,Female,old,641,2223,0
+13111,45,White,Male,old,749,5485,0
+29844,52,White,Male,new,669,4829,0
+27065,61,White,Other,old,787,7742,1
+77756,41,White,Other,old,700,1236,0
+97382,24,Hispanic,Other,new,817,6239,0
+52437,53,Asian,Other,old,753,7873,0
+94015,58,Hispanic,Other,new,846,3704,0
+66409,35,African American,Male,new,730,3464,1
+93116,61,Hispanic,Female,old,838,8543,1
+68251,26,African American,Male,old,627,9322,0
+41846,64,White,Female,new,794,692,1
+52087,37,African American,Male,new,816,3358,1
+36114,57,African American,Female,old,742,4122,0
+28487,38,African American,Male,old,651,8955,0
+60377,23,White,Other,new,686,769,0
+85901,33,American Indian,Male,new,600,6196,1
+29701,45,White,Other,old,743,5215,1
+89202,43,African American,Other,new,691,9444,1
+84685,57,White,Female,old,723,4959,0
+75744,44,Hispanic,Male,old,759,4950,0
+96146,39,Hispanic,Male,old,722,5578,1
+66662,33,White,Female,old,700,8861,0
+20031,27,White,Male,old,834,6812,0
+67462,41,White,Female,old,750,2613,1
+16556,46,White,Female,old,719,1682,0
+74124,50,White,Other,old,734,1384,0
+83388,63,African American,Female,old,784,720,1
+77564,60,White,Other,old,797,6085,1
+26203,22,African American,Other,new,728,2098,0
+82226,57,White,Female,old,774,4985,1
+25582,24,African American,Male,old,759,7688,0
+18837,64,White,Female,old,844,3599,0
+91437,47,African American,Other,old,708,9663,0
+90753,57,Asian,Male,new,605,1534,1
+43372,64,American Indian,Other,old,645,7472,0
+14522,49,White,Female,new,841,9703,0
+24834,56,American Indian,Female,old,702,3817,1
+37685,26,White,Female,new,714,2652,0
+42727,24,American Indian,Female,new,729,6069,1
+45598,52,African American,Other,old,680,8975,1
+73165,52,White,Other,old,782,9517,0
+14917,26,White,Male,old,648,4872,1
+72419,47,White,Female,new,786,8639,0
+89117,44,Asian,Male,old,613,9690,0
+92842,51,White,Female,old,790,1611,0
+28899,48,White,Other,old,742,4095,1
+60932,52,White,Other,old,698,5861,1
+52031,44,White,Female,old,653,1809,0
+97896,59,White,Female,new,739,3074,1
+97112,46,African American,Other,new,846,4492,1
+65230,42,American Indian,Male,old,730,8314,0
+72361,54,White,Male,old,646,7658,1
+49125,54,White,Female,old,661,6009,0
+99048,64,White,Male,new,848,3321,1
+14787,24,Asian,Female,new,790,2317,0
+67058,33,White,Other,old,695,1539,1
+96089,23,White,Male,new,819,8926,1
+47157,52,Asian,Male,old,623,5407,0
+76553,42,White,Other,new,703,3811,0
+52809,52,White,Female,old,746,8020,0
+41154,34,White,Other,new,699,8442,1
+21525,42,White,Other,new,658,4024,0
+85915,25,African American,Female,old,809,9803,0
+78443,27,White,Other,old,650,5812,0
+75272,53,American Indian,Male,old,764,8745,1
+10022,37,Hispanic,Female,old,832,9157,1
+65523,55,African American,Other,new,650,1218,1
+67053,37,White,Female,old,825,4849,0
+81218,29,White,Female,new,671,5311,0
+43767,55,White,Male,old,602,1973,1
+88064,54,White,Male,old,688,6903,1
+21085,25,White,Female,old,831,7076,1
+47689,36,African American,Female,old,647,7345,1
+52132,52,White,Other,old,646,5149,1
+66827,41,White,Other,old,652,3043,0
+49353,25,White,Female,old,668,8099,0
+33799,64,White,Other,new,606,1821,1
+15495,45,White,Other,old,729,2467,1
+16767,39,White,Female,new,816,6898,1
+54722,59,White,Male,old,778,2884,0
+55082,24,White,Female,old,645,7139,1
+14527,37,Hispanic,Other,old,768,830,0
+69766,44,American Indian,Other,new,727,1491,1
+94819,39,White,Female,old,678,9464,0
+78520,32,African American,Female,old,794,6993,0
+97831,56,White,Other,old,731,2964,1
+75160,22,White,Other,old,786,5978,0
+71149,42,White,Female,old,628,5570,0
+40357,27,White,Other,old,625,4102,1
+14352,27,White,Female,new,786,9805,0
+44281,64,Asian,Other,old,629,9645,0
+78150,22,White,Other,old,631,6969,0
+93979,30,White,Female,new,606,5722,0
+45230,29,Asian,Female,old,641,2197,0
+37442,44,Asian,Other,old,668,3893,1
+38060,49,African American,Other,new,825,9525,1
+91871,31,African American,Female,new,664,3553,0
+96857,61,White,Other,old,789,8000,0
